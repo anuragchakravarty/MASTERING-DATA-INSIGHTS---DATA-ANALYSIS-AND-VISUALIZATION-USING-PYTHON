@@ -10,6 +10,6 @@ Project Work: Integration of multiple concepts in comprehensive project assignme
 
 My college provided these projects during my summer term classes to enhance our understanding and practical skills in data science. This repository serves as an excellent resource for students and data enthusiasts looking to master the art of data analysis and visualization using Python.
 
-## Assignment - 1
+## [Assignment - 1](https://github.com/anuragchakravarty/Mastering-Data-Insights---Data-Analysis-and-Visualization-Using-Python/blob/main/assignment_1__summer_class.ipynb)
 
 ## Assignment - 2
