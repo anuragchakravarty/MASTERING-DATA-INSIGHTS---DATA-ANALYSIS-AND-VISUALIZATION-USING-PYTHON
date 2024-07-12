@@ -12,4 +12,4 @@ Here are the following projects included in this repository:
 
 ## [Assignment - 1](https://github.com/anuragchakravarty/Mastering-Data-Insights---Data-Analysis-and-Visualization-Using-Python/blob/main/assignment_1__summer_class.ipynb)
 
-## Assignment - 2
+## Assignment - 2(https://github.com/anuragchakravarty/Mastering-Data-Insights---Data-Analysis-and-Visualization-Using-Python/blob/main/assignment_2__summer_class.ipynb)
