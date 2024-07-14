@@ -15,3 +15,6 @@ Here are the following projects included in this repository:
 ## [Assignment - 2](https://github.com/anuragchakravarty/Mastering-Data-Insights---Data-Analysis-and-Visualization-Using-Python/blob/main/assignment_2__summer_class.ipynb)
 
 ## [Assignment - 3]()
+For this assignment, I utilized various datasets that I downloaded from Kaggle.
+1. [Stock Data]()
+2. [Super_Market Sales]()
