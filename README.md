@@ -3,7 +3,7 @@ Welcome to the "Mastering Data Insights" repository. This repository contains a 
 
 1. Data Cleaning and Preprocessing: Techniques for handling missing data, outliers, and data transformation.
 2. Exploratory Data Analysis (EDA): Methods for summarizing the main characteristics of data, often with visual methods.
-3. Data Visualization: Creating insightful visualizations using libraries like Matplotlib, Seaborn, and Plotly.
+3. Data Visualization: Creating insightful visualizations using libraries like Matplotlib, Seaborn.
 4. Statistical Analysis: Applying statistical methods to analyze data and draw meaningful conclusions.
 5. Machine Learning Basics: Introduction to basic machine learning concepts and algorithms.
 6. Project Work: Integration of multiple concepts in comprehensive project assignments.
